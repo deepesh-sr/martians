@@ -2,7 +2,7 @@ import { Routes, Route, Outlet } from "react-router"
 import Home from "./pages/Home"
 import AboutUs from "./pages/AboutUs"
 import Events from "./pages/Events"
-import FloatingNavbar from "./components/FloatingNavbar"
+
 function App() {
   return (
     <Routes>
